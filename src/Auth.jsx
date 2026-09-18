@@ -51,7 +51,7 @@ export default function Auth() {
       <section className="auth-hero">
         <div className="brand-mark">₱</div>
         <p className="eyebrow">MY FINANCE PLANNER</p>
-        <h1>A clearer plan for every peso, dollar, or euro.</h1>
+        <h1>Money, made clear.</h1>
         <p className="auth-hero-copy">
           Build a personal plan around your own income, pay schedule, goals, debts, and spending. Your data stays separated from every other account.
         </p>
